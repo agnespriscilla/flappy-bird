@@ -1,8 +1,8 @@
-# Flappy Bird — Java Desktop Game
+# Flappy Bird Java Desktop Game
 
 > Java Programming Course · ITS Surabaya · 2024
 
-A desktop clone of the classic Flappy Bird game built from scratch using Java Swing. Navigate the bird through pipes by pressing the spacebar — how far can you go?
+A desktop clone of the classic Flappy Bird game built from scratch using Java Swing. Navigate the bird through pipes by pressing the spacebar how far can you go?
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-007396?style=flat&logo=java&logoColor=white)
@@ -12,7 +12,7 @@ A desktop clone of the classic Flappy Bird game built from scratch using Java Sw
 
 ## Overview
 
-This project is a desktop implementation of the iconic Flappy Bird game using **Java Swing** for rendering and game loop management. The player controls a bird that constantly falls due to gravity — press `SPACEBAR` to flap and gain altitude, and navigate through the gaps between pipes without crashing.
+This project is a desktop implementation of the iconic Flappy Bird game using **Java Swing** for rendering and game loop management. The player controls a bird that constantly falls due to gravity press `SPACEBAR` to flap and gain altitude, and navigate through the gaps between pipes without crashing.
 
 ---
 
@@ -34,7 +34,7 @@ This project is a desktop implementation of the iconic Flappy Bird game using **
 - Press `SPACEBAR` to flap upward
 - Avoid hitting the pipes or the ground
 - Each pipe successfully passed = +1 score
-- Game over on collision — press `SPACEBAR` to restart
+- Game over on collision press `SPACEBAR` to restart
 
 ---
 
@@ -104,11 +104,11 @@ java -cp bin App
 
 ## Key Concepts Covered
 
-- **Java Swing** — `JFrame`, `JPanel`, `paintComponent()` for rendering
-- **Game loop** — `javax.swing.Timer` for fixed-interval updates
-- **Physics simulation** — gravity, velocity, collision detection
-- **Event handling** — `KeyListener` / `ActionListener` for input
-- **Object-oriented design** — Bird, Pipe, and Game classes
+- **Java Swing** : `JFrame`, `JPanel`, `paintComponent()` for rendering
+- **Game loop** : `javax.swing.Timer` for fixed-interval updates
+- **Physics simulation** : gravity, velocity, collision detection
+- **Event handling** : `KeyListener` / `ActionListener` for input
+- **Object-oriented design** : Bird, Pipe, and Game classes
 
 ---
 
@@ -123,6 +123,6 @@ This project was developed as part of a Java programming course at Institut Tekn
 **Agnes Priscilla Sekartaji Hadikusuma**  
 S1 Teknik Informatika · Institut Teknologi Sepuluh Nopember (ITS) Surabaya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnespriscilla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnespriscilla33)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/agnespriscilla)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agnes.priscilla33@gmail.com)
